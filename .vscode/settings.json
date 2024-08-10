@@ -1,0 +1,19 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+      79,
+      {
+        "column": 120,
+        "color": "#ffaa00"
+      }
+    ],
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 120
+  },
+  "autoDocstring.startOnNewLine": true,
+  "autoDocstring.docstringFormat": "numpy",
+  "autoDocstring.generateDocstringOnEnter": true,
+  "autoDocstring.guessTypes": true
+}
